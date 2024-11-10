@@ -13,7 +13,7 @@ Power BI dashboard for Movements of Grace (ONG), created after an ETL process us
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V2]()
+[https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V2](https://bryancarvajal24.github.io/DASHBOARD-MOVEMENTS-OF-GRACE-V2/)
 
 ## Instalación
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el archivo de Power BI.
