@@ -7,6 +7,7 @@ Power BI dashboard for Movements of Grace (ONG), created after an ETL process us
 - [Descargar archivo de dashboard en Power BI](DASHBOARD%20PROTOTIPO2%20V3.pbix)
 - [Descargar Dataset limpio](Dataset%20LimpioV2.xlsx)
 - [Descargar Dataset Sin Limpiar](Dataset%20Sin%20LimpiezaV2.csv)
+- [Descargar Proceso de limpieza del dataset (Jupyter Notebook)](PROCESO_DE_LIMPIEZA_DE_DATASET_PARA_DASHBOARD_V3%20(1).ipynb)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
